@@ -4,3 +4,4 @@ Halo 2
 Halo 3
 Halo 4
 Halo 5
+Halo 6
